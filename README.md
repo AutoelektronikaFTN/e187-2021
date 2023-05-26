@@ -1,1 +1,7 @@
-# e187-2021
+Simulacija CAN komunikacije
+
+Opis projekta
+-- opis
+
+Simulacija projekta
+--opis
