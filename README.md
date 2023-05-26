@@ -1,7 +1,7 @@
-Simulacija CAN komunikacije
+# Simulacija CAN komunikacije
 
-Opis projekta
+## Opis projekta
 -- opis
 
-Simulacija projekta
+### Simulacija projekta
 --opis
